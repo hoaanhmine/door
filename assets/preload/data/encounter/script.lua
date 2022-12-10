@@ -31,28 +31,7 @@ function onCreatePost()
 		end
 	end
 	
-	--SHADER
-	setProperty('health', 2);
-
-    luaDebugMode = true
-    initLuaShader("vcr")
-    
-    makeLuaSprite("temporaryShader2")
-    makeGraphic("temporaryShader2", screenWidth, screenHeight)
-    
-    setSpriteShader("temporaryShader2", "vcr")
-    
-	if shadersEnabled then
-		addHaxeLibrary("ShaderFilter2", "openfl.filters")
-		runHaxeCode([[
-			trace(ShaderFilter);
-			game.camGame.setFilters([new ShaderFilter(game.getLuaObject("temporaryShader2").shader)]);
-		]])
-	end
 	
-end
-end
-
 -- HEALTH SHIT
 
 function opponentNoteHit()
