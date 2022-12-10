@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"halt",
+			"halt",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "halt",
+	"freeplayColor": [
+		0,
+		0,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Symbole 11"
+		},
+		{
+			"offsets": [
+				82,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Symbole 8"
+		},
+		{
+			"offsets": [
+				-2,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Symbole 10"
+		},
+		{
+			"offsets": [
+				1,
+				269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Symbole 9"
+		},
+		{
+			"offsets": [
+				82,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Symbole 7"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/omg_bf_fnf",
+	"position": [
+		0,
+		-230
+	],
+	"healthicon": "omg_bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		220,
+		150
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

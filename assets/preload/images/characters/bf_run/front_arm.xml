@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="front arm.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="front arm0000" x="0" y="0" width="313" height="248"/>
+	<SubTexture name="front arm0001" x="313" y="0" width="313" height="248"/>
+	<SubTexture name="front arm0002" x="626" y="0" width="313" height="248"/>
+	<SubTexture name="front arm0003" x="939" y="0" width="313" height="248"/>
+	<SubTexture name="front arm0004" x="1252" y="0" width="313" height="248"/>
+	<SubTexture name="front arm0005" x="1565" y="0" width="313" height="248"/>
+	<SubTexture name="front arm0006" x="0" y="248" width="313" height="248"/>
+	<SubTexture name="front arm0007" x="313" y="248" width="313" height="248"/>
+	<SubTexture name="front arm0008" x="626" y="248" width="313" height="248"/>
+	<SubTexture name="front arm0009" x="939" y="248" width="313" height="248"/>
+	<SubTexture name="front arm0010" x="1252" y="248" width="313" height="248"/>
+	<SubTexture name="front arm0011" x="1565" y="248" width="313" height="248"/>
+	<SubTexture name="front arm0012" x="0" y="496" width="313" height="248"/>
+	<SubTexture name="front arm0013" x="313" y="496" width="313" height="248"/>
+</TextureAtlas>

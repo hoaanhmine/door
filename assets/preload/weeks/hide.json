@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Hide",
+			"rush",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "hide",
+	"freeplayColor": [
+		60,
+		60,
+		60
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

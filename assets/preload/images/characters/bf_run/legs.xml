@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="legs.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LEGGOS0000" x="0" y="0" width="391" height="269"/>
+	<SubTexture name="LEGGOS0001" x="391" y="0" width="391" height="269"/>
+	<SubTexture name="LEGGOS0002" x="782" y="0" width="391" height="269"/>
+	<SubTexture name="LEGGOS0003" x="1173" y="0" width="391" height="269"/>
+	<SubTexture name="LEGGOS0004" x="1564" y="0" width="391" height="269"/>
+	<SubTexture name="LEGGOS0005" x="0" y="269" width="391" height="269"/>
+	<SubTexture name="LEGGOS0006" x="391" y="269" width="391" height="269"/>
+	<SubTexture name="LEGGOS0007" x="782" y="269" width="391" height="269"/>
+	<SubTexture name="LEGGOS0008" x="1173" y="269" width="391" height="269"/>
+	<SubTexture name="LEGGOS0009" x="1564" y="269" width="391" height="269"/>
+	<SubTexture name="LEGGOS0010" x="0" y="538" width="391" height="269"/>
+	<SubTexture name="LEGGOS0011" x="391" y="538" width="391" height="269"/>
+	<SubTexture name="LEGGOS0012" x="782" y="538" width="391" height="269"/>
+	<SubTexture name="LEGGOS0013" x="1173" y="538" width="391" height="269"/>
+	<SubTexture name="LEGGOS0014" x="1564" y="538" width="391" height="269"/>
+</TextureAtlas>

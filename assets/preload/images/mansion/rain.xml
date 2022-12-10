@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rain.png">
+<SubTexture name="rain idle0000" x="0" y="0" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0001" x="854" y="0" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0002" x="0" y="480" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0003" x="854" y="480" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0004" x="0" y="960" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0005" x="854" y="960" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0006" x="1708" y="0" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0007" x="1708" y="480" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0008" x="1708" y="960" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0009" x="0" y="1440" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0010" x="854" y="1440" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0011" x="1708" y="1440" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0012" x="0" y="1920" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0013" x="854" y="1920" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0014" x="1708" y="1920" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0015" x="2562" y="0" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0016" x="2562" y="480" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0017" x="2562" y="960" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0018" x="2562" y="1440" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0019" x="2562" y="1920" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0020" x="0" y="2400" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0021" x="854" y="2400" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0022" x="1708" y="2400" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0023" x="2562" y="2400" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0024" x="0" y="2880" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0025" x="854" y="2880" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0026" x="1708" y="2880" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0027" x="2562" y="2880" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0028" x="3416" y="0" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0029" x="3416" y="480" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0030" x="3416" y="960" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0031" x="3416" y="1440" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+<SubTexture name="rain idle0032" x="3416" y="1920" width="854" height="480" frameX="0" frameY="0" frameWidth="854" frameHeight="480" />
+</TextureAtlas>
