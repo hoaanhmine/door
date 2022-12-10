@@ -7264,7 +7264,7 @@
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "abuse",
-		"arrowSkin": "NOTE_assets",
+		"arrowSkin": "",
 		"speed": 3.2,
 		"bpm": 175
 	}
