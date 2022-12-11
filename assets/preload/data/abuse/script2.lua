@@ -1,6 +1,6 @@
 function onCreatePost() 
 
-	value1 = 'seek_notes'
+	value1 = 'Seek_notes'
 	value2 = ''
 	name = 'noteskinchangeBF'
 
