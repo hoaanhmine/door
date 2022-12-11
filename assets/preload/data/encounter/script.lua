@@ -1,6 +1,3 @@
--- SHADER SHIT
-Chromashit = 0;
-
 function onCreatePost() 
 	--NOTESKIN
 	value1 = 'Seek_notes'
@@ -30,23 +27,3 @@ function onCreatePost()
 			end
 		end
 	end
-	
-
-function opponentNoteHit()
-    health = getProperty('health')
-    if getProperty('health') > 0.05 then
-        setProperty('health', health- 0.004);
-    end
-	Chromashit = Chromashit + 0.005
-end
-
-
-function boundTo(value, min, max)
-    return math.max(min, math.min(max, value))
-end
-function math.lerp(from,to,i)return from+(to-from)*i end
-
-function onUpdate(elapsed)
-    Chromashit = math.lerp(Chromashit, (2 - getProperty('health')) / 300, boundTo(elapsed * 10, 0, 1));
-    setChrome(Chromashit)
-end
