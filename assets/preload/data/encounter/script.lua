@@ -31,8 +31,6 @@ function onCreatePost()
 		end
 	end
 	
-	
--- HEALTH SHIT
 
 function opponentNoteHit()
     health = getProperty('health')
@@ -47,12 +45,6 @@ function boundTo(value, min, max)
     return math.max(min, math.min(max, value))
 end
 function math.lerp(from,to,i)return from+(to-from)*i end
-
-function setChrome(chromeOffset)
-    setShaderFloat("temporaryShader2", "rOffset", chromeOffset * 2);
-    setShaderFloat("temporaryShader2", "gOffset", 0);
-    setShaderFloat("temporaryShader2", "bOffset", chromeOffset * -2);
-end
 
 function onUpdate(elapsed)
     Chromashit = math.lerp(Chromashit, (2 - getProperty('health')) / 300, boundTo(elapsed * 10, 0, 1));
